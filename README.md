@@ -33,6 +33,3 @@ en clase de Informática.
 Juego de destruir asteroides creado para practicar programación
 en JavaScript y bloques.
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroGonzalez11&show_icons=true&theme=default&hide_border=true)
