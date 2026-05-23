@@ -10,8 +10,8 @@ Estudiante de 3ro de Informática | Con sólido interés en economía, finanzas 
 
 ## Sobre mí
 
-Estudiante de informática con experiencia en desarrollo de videojuegos
-y aplicaciones web. con sólido interés en economía, finanzas y análisis de datos.
+Estudiante de informática con experiencia en desarrollo de aplicaciones web. 
+Con sólido interés en economía, finanzas y análisis de datos.
 Próximo a iniciar estudios en la Facultad de Ciencias Económicas y de Administración. 
 Destaco por mis habilidades de organización de información, 
 manejo de herramientas digitales y capacidad de aprendizaje rápido. 
