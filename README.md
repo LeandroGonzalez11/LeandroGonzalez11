@@ -1,6 +1,6 @@
 # Hola, soy Leandro González 👋
 
-Estudiante de 3ro de Informática | Con sólido interés en economía, finanzas y análisis de datos
+Estudiante de 3ro de Informática | Con sólido interés en derecho, finanzas y análisis de datos
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -11,8 +11,8 @@ Estudiante de 3ro de Informática | Con sólido interés en economía, finanzas 
 ## Sobre mí
 
 Estudiante de informática con experiencia en desarrollo de aplicaciones web. 
-Con sólido interés en economía, finanzas y análisis de datos.
-Próximo a iniciar estudios en la Facultad de Ciencias Económicas y de Administración. 
+Con sólido interés en derecho, finanzas y análisis de datos.
+Próximo a iniciar estudios en la Facultad de Derecho. 
 Destaco por mis habilidades de organización de información, 
 manejo de herramientas digitales y capacidad de aprendizaje rápido. 
 Orientado a resultados, con disposición para enfrentar 
@@ -20,8 +20,14 @@ nuevos desafíos en entornos profesionales.
 
 
 - 🎓 Cursando 3ro de Informática
-- 💻 Aprendiendo cada día más sobre desarrollo web, programación y análisis de datos.
-- 🚀 Proyecto final en camino...
+- 💻 Aprendiendo cada día más sobre desarrollo web, programación, análisis de datos y ciberseguridad.
+
+## Mis sitios webs:
+
+- Velvet Room Website 100%
+- Nacional Melo Website 80%
+- Urbano's Barber Shop Website 100%
+- GymTrack Website 80%
 
 ## Proyectos destacados
 
